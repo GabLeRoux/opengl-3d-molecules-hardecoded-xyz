@@ -1,0 +1,20 @@
+# compiled app
+molecules.out
+
+# OS X temporary files that should never be committed
+
+.DS_Store
+*.swp
+*.lock
+profile
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
