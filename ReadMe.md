@@ -1,7 +1,7 @@
 # OpenGL 3d Molecules with Hardcoded XYZ
-This application is a simple OpenGl project I've made during my Infography Course at [Université du Québec à Chicoutimi](http://www.uqac.ca/) while ago. Some people asked me the code for this on my quick youtube video so here it is.
+This application is a simple OpenGl project I've made during an Infography course at [University of Québec at Chicoutimi](http://www.uqac.ca/) a while ago. Some people asked me the code for this on my youtube channel so here it is.
 
-The code is not so great but it works well. I believe you can use this for learning purpouses of ```OpenGL``` using ```GLUT```.
+The code is not so great but it works well. I believe you can use this for learning purposes of ```OpenGL``` using ```GLUT```.
 
 ## Youtube video of the running application
 
